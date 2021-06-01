@@ -1,0 +1,9 @@
+####################################################################
+#
+#          Yumbootstrap
+####################################################################
+
+YUMBOOTSTRAP_VERSION=0.0.3
+YUMBOOTSTRAP_SOURCE= yumbootstrap-{$YUMBOOTSTRAP_VERSION}
+YUMBOOTSTRAP_SITE=
+

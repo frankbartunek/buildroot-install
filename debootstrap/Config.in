@@ -1,0 +1,4 @@
+config BR_PACKAGE_DEBOOTSTRAP
+	bool "debootstrap"
+	help
+		Debootstrap establishes a new dpkg-based system.

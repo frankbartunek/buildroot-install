@@ -1,0 +1,5 @@
+config BR_PACKAGE_KILO
+	bool "kilo"
+	help
+		Kilo is a small editor written by antirez.   This is a patched
+		version that should meet the needs of embedded systems.

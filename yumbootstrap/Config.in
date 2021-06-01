@@ -1,0 +1,5 @@
+config BR_PACKAGE_YUMBOOTSTRAP
+	bool "yumbootstrap"
+	help
+		Yumbootstrap allows the rapid setup of RPM based distros.
+

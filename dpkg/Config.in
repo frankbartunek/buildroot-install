@@ -1,0 +1,4 @@
+config BR_PACKAGE_DPKG
+	bool "dpkg"
+	help
+		The Debian package manager, needed to bootstrap Debian systems.
