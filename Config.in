@@ -1,0 +1,5 @@
+source "/usr/src/buildroot-install/rpm/Config.in"
+source "/usr/src/buildroot-install/yumbootstrap/Config.in"
+source "/usr/src/buildroot-install/debootstrap/Config.in"
+source "/usr/src/buildroot-install/kilo/Config.in"
+source "/usr/src/buildroot-install/dpkg/Config.in"
